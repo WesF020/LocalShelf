@@ -1,3 +1,8 @@
+> [!WARNING]
+> # *O desenvolvimento deste repositório foi descontinuado em favor de **ReadEra**, que oferece funcionalidades equivalentes e superiores.*
+
+---
+
 # Biblioteca Pessoal de eBooks em PDF
 
 [![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
